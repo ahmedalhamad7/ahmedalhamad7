@@ -1,5 +1,11 @@
 # 💫 About Me:
-## Ahmed Alhamad<br><br>Cybersecurity and Cloud Engineer focused on building secure, scalable, and AI-enabled systems.<br><br>My work spans AI-driven infrastructure auditing, cloud-native deployments, backend engineering, and compliance-aligned system design across AWS and hybrid environments. I primarily develop automation and intelligent platforms that integrate security, risk analysis, and operational visibility.<br><br>### Focus Areas<br><br>* Cybersecurity Engineering & Infrastructure Security<br>* Cloud Architecture (AWS)<br>* AI Systems and LLM Applications<br>* Backend Development & API Design<br>* Automation and Compliance Engineering<br>
+## Ahmed Alhamad<br><br>Cybersecurity and Cloud Engineer focused on building secure, scalable, and AI-enabled systems.<br><br>My work spans AI-driven infrastructure auditing, cloud-native deployments, backend engineering, and compliance-aligned system design across AWS and hybrid environments. I primarily develop automation and intelligent platforms that integrate security, risk analysis, and operational visibility.<br><br>
+## Focus Areas
+* Cybersecurity Engineering & Infrastructure Security<br>
+* Cloud Architecture (AWS)<br>
+* AI Systems and LLM Applications<br>
+* Backend Development & API Design<br>
+* Automation and Compliance Engineering
 
 
 # 💻 Tech Stack:
